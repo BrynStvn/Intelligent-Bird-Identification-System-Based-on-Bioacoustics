@@ -1,5 +1,7 @@
 # Intelligent Bird Identification System
 
+[Go to Project](https://studio.edgeimpulse.com/studio/535414)
+
 ## Project Overview
 
 This project aims to develop an intelligent system capable of accurately identifying five distinct bird species based on their unique acoustic signatures. By leveraging advanced machine learning techniques and cutting-edge technology, this system seeks to contribute to bird conservation efforts and ecological research.
